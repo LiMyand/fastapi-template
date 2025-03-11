@@ -1,0 +1,19 @@
+2025-03-09 21:22:33.461 |   INFO   | process [19840]:8598504000 | 无UUID | uvicorn.server:shutdown:263 - Shutting down
+2025-03-09 21:22:33.562 |   INFO   | process [19840]:8598504000 | 无UUID | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-09 21:22:33.562 |   INFO   | process [19840]:8598504000 | 无UUID | main:lifespan:25 - 应用程序已关闭
+2025-03-09 21:22:34.149 |   INFO   | process [37150]:8598504000 | 无UUID | app.core.logger:setup_logging:319 - 日志系统初始化完成
+2025-03-09 21:22:34.149 |   INFO   | process [37150]:8598504000 | 无UUID | main:lifespan:19 - 日志系统已初始化
+2025-03-09 21:22:34.149 |   INFO   | process [37150]:8598504000 | 无UUID | main:lifespan:20 - 应用程序已启动
+2025-03-09 21:22:34.149 |   INFO   | process [37150]:8598504000 | 无UUID | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-09 21:23:09.412 |   INFO   | process [37150]:8598504000 | 无UUID | uvicorn.server:shutdown:263 - Shutting down
+2025-03-09 21:23:09.514 |   INFO   | process [37150]:8598504000 | 无UUID | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-09 21:23:09.897 |   INFO   | process [37291]:8598504000 | 无UUID | app.core.logger:setup_logging:319 - 日志系统初始化完成
+2025-03-09 21:23:09.897 |   INFO   | process [37291]:8598504000 | 无UUID | main:lifespan:19 - 日志系统已初始化
+2025-03-09 21:23:09.898 |   INFO   | process [37291]:8598504000 | 无UUID | main:lifespan:20 - 应用程序已启动
+2025-03-09 21:23:09.898 |   INFO   | process [37291]:8598504000 | 无UUID | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-09 22:01:38.225 |   INFO   | process [37291]:8598504000 | 无UUID | uvicorn.server:shutdown:263 - Shutting down
+2025-03-09 22:01:38.327 |   INFO   | process [37291]:8598504000 | 无UUID | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-09 22:01:38.845 |   INFO   | process [38810]:8598504000 | 无UUID | app.core.logger:setup_logging:319 - 日志系统初始化完成
+2025-03-09 22:01:38.846 |   INFO   | process [38810]:8598504000 | 无UUID | main:lifespan:19 - 日志系统已初始化
+2025-03-09 22:01:38.846 |   INFO   | process [38810]:8598504000 | 无UUID | main:lifespan:20 - 应用程序已启动
+2025-03-09 22:01:38.846 |   INFO   | process [38810]:8598504000 | 无UUID | uvicorn.lifespan.on:startup:62 - Application startup complete.

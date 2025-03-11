@@ -1,0 +1,4 @@
+2025-03-11 23:03:48.867 |   INFO   | process [71894]:8438596160 | 无UUID | app.core.logger:setup_logging:319 - 日志系统初始化完成
+2025-03-11 23:03:48.867 |   INFO   | process [71894]:8438596160 | 无UUID | main:lifespan:19 - 日志系统已初始化
+2025-03-11 23:03:48.867 |   INFO   | process [71894]:8438596160 | 无UUID | main:lifespan:20 - 应用程序已启动
+2025-03-11 23:03:48.867 |   INFO   | process [71894]:8438596160 | 无UUID | uvicorn.lifespan.on:startup:62 - Application startup complete.

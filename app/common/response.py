@@ -6,18 +6,21 @@ from .enums import ResponseCode, get_message
 
 T = TypeVar("T")
 
+
 class ResponseModel(BaseModel, Generic[T]):
     """统一响应模型"""
+
     model_config = ConfigDict(arbitrary_types_allowed=True)
-    
+
     code: int
-    message: str
+    msg: str
     data: Optional[T] = None
+
 
 def create_response(
     *,
     code: ResponseCode,
-    message: Optional[str] = None,
+    msg: Optional[str] = None,
     data: Optional[Any] = None,
 ) -> JSONResponse:
     """
@@ -26,45 +29,23 @@ def create_response(
     return JSONResponse(
         status_code=200,
         content=ResponseModel(
-            code=code,
-            message=message or get_message(code),
-            data=data
-        ).model_dump()
+            code=code, msg=msg or get_message(code), data=data
+        ).model_dump(),
     )
 
-# 使用偏函数创建特定类型的响应
-success_response: Callable = partial(
-    create_response,
-    code=ResponseCode.SUCCESS
-)
 
-error_response: Callable = partial(
-    create_response,
-    data=None
-)
+# 使用偏函数创建特定类型的响应
+success_response: Callable = partial(create_response, code=ResponseCode.SUCCESS)
+
+error_response: Callable = partial(create_response, data=None)
 
 # 预定义常用错误响应
-param_error: Callable = partial(
-    error_response,
-    code=ResponseCode.PARAM_ERROR
-)
+param_error: Callable = partial(error_response, code=ResponseCode.PARAM_ERROR)
 
-unauthorized_error: Callable = partial(
-    error_response,
-    code=ResponseCode.UNAUTHORIZED
-)
+unauthorized_error: Callable = partial(error_response, code=ResponseCode.UNAUTHORIZED)
 
-forbidden_error: Callable = partial(
-    error_response,
-    code=ResponseCode.FORBIDDEN
-)
+forbidden_error: Callable = partial(error_response, code=ResponseCode.FORBIDDEN)
 
-not_found_error: Callable = partial(
-    error_response,
-    code=ResponseCode.NOT_FOUND
-)
+not_found_error: Callable = partial(error_response, code=ResponseCode.NOT_FOUND)
 
-internal_error: Callable = partial(
-    error_response,
-    code=ResponseCode.INTERNAL_ERROR
-)
+internal_error: Callable = partial(error_response, code=ResponseCode.INTERNAL_ERROR)

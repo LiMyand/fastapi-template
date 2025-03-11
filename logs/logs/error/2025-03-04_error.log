@@ -1,0 +1,6 @@
+2025-03-04 23:54:15.310 |  ERROR   | process [6974]:8598504000 | app.controller.demo:demo_error:24 - 请求 /demo-error 发生错误
+2025-03-04 23:54:15.532 |  ERROR   | process [6974]:8598504000 | app.controller.demo:demo_error:24 - 请求 /demo-error 发生错误
+2025-03-04 23:54:15.698 |  ERROR   | process [6974]:8598504000 | app.controller.demo:demo_error:24 - 请求 /demo-error 发生错误
+2025-03-04 23:54:15.870 |  ERROR   | process [6974]:8598504000 | app.controller.demo:demo_error:24 - 请求 /demo-error 发生错误
+2025-03-04 23:54:16.021 |  ERROR   | process [6974]:8598504000 | app.controller.demo:demo_error:24 - 请求 /demo-error 发生错误
+2025-03-04 23:54:16.169 |  ERROR   | process [6974]:8598504000 | app.controller.demo:demo_error:24 - 请求 /demo-error 发生错误

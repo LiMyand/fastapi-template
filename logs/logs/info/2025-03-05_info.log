@@ -1,0 +1,442 @@
+2025-03-05 00:01:25.217 |   INFO   | process [7327]:8598504000 | uvicorn.server:shutdown:263 - Shutting down
+2025-03-05 00:01:25.319 |   INFO   | process [7327]:8598504000 | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-05 00:01:25.623 |   INFO   | process [7624]:8598504000 | 无UUID | app.core.logger:setup_logging:287 - 日志系统初始化完成
+2025-03-05 00:01:25.623 |   INFO   | process [7624]:8598504000 | 无UUID | main:lifespan:17 - 日志系统已初始化
+2025-03-05 00:01:25.623 |   INFO   | process [7624]:8598504000 | 无UUID | main:lifespan:18 - 应用程序已启动
+2025-03-05 00:01:25.623 |   INFO   | process [7624]:8598504000 | 无UUID | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-05 00:01:25.726 |   INFO   | process [7624]:8598504000 | 无UUID | uvicorn.server:shutdown:263 - Shutting down
+2025-03-05 00:01:25.827 |   INFO   | process [7624]:8598504000 | 无UUID | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-05 00:01:25.827 |   INFO   | process [7624]:8598504000 | 无UUID | main:lifespan:23 - 应用程序已关闭
+2025-03-05 00:01:26.116 |   INFO   | process [7626]:8598504000 | 无UUID | app.core.logger:setup_logging:287 - 日志系统初始化完成
+2025-03-05 00:01:26.116 |   INFO   | process [7626]:8598504000 | 无UUID | main:lifespan:17 - 日志系统已初始化
+2025-03-05 00:01:26.117 |   INFO   | process [7626]:8598504000 | 无UUID | main:lifespan:18 - 应用程序已启动
+2025-03-05 00:01:26.117 |   INFO   | process [7626]:8598504000 | 无UUID | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-05 00:01:42.182 |   INFO   | process [7626]:8598504000 | 无UUID | uvicorn.server:shutdown:263 - Shutting down
+2025-03-05 00:01:42.284 |   INFO   | process [7626]:8598504000 | 无UUID | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-05 00:01:44.050 |   INFO   | process [7668]:8598504000 | 无UUID | app.core.logger:setup_logging:287 - 日志系统初始化完成
+2025-03-05 00:01:44.050 |   INFO   | process [7668]:8598504000 | 无UUID | main:lifespan:17 - 日志系统已初始化
+2025-03-05 00:01:44.050 |   INFO   | process [7668]:8598504000 | 无UUID | main:lifespan:18 - 应用程序已启动
+2025-03-05 00:01:44.050 |   INFO   | process [7668]:8598504000 | 无UUID | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-05 00:02:16.012 |   INFO   | process [7668]:8598504000 | 无UUID | uvicorn.server:shutdown:263 - Shutting down
+2025-03-05 00:02:16.113 |   INFO   | process [7668]:8598504000 | 无UUID | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-05 00:02:16.114 |   INFO   | process [7668]:8598504000 | 无UUID | main:lifespan:23 - 应用程序已关闭
+2025-03-05 00:02:16.392 |   INFO   | process [7708]:8598504000 | 无UUID | app.core.logger:setup_logging:290 - 日志系统初始化完成
+2025-03-05 00:02:16.392 |   INFO   | process [7708]:8598504000 | 无UUID | main:lifespan:17 - 日志系统已初始化
+2025-03-05 00:02:16.392 |   INFO   | process [7708]:8598504000 | 无UUID | main:lifespan:18 - 应用程序已启动
+2025-03-05 00:02:16.392 |   INFO   | process [7708]:8598504000 | 无UUID | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-05 00:02:16.494 |   INFO   | process [7708]:8598504000 | 无UUID | uvicorn.server:shutdown:263 - Shutting down
+2025-03-05 00:02:16.595 |   INFO   | process [7708]:8598504000 | 无UUID | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-05 00:02:16.596 |   INFO   | process [7708]:8598504000 | 无UUID | main:lifespan:23 - 应用程序已关闭
+2025-03-05 00:02:16.874 |   INFO   | process [7709]:8598504000 | 无UUID | app.core.logger:setup_logging:290 - 日志系统初始化完成
+2025-03-05 00:02:16.874 |   INFO   | process [7709]:8598504000 | 无UUID | main:lifespan:17 - 日志系统已初始化
+2025-03-05 00:02:16.874 |   INFO   | process [7709]:8598504000 | 无UUID | main:lifespan:18 - 应用程序已启动
+2025-03-05 00:02:16.875 |   INFO   | process [7709]:8598504000 | 无UUID | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-05 00:02:23.012 |   INFO   | process [7709]:8598504000 | 无UUID | app.controller.demo:demo_async:26 - 成功请求 /demo-async
+2025-03-05 00:02:24.014 |   INFO   | process [7709]:8598504000 | 无UUID | app.controller.demo:demo_async:30 - 成功请求 /demo-async
+2025-03-05 00:02:25.635 |   INFO   | process [7709]:8598504000 | 无UUID | app.controller.demo:demo_async:26 - 成功请求 /demo-async
+2025-03-05 00:02:26.636 |   INFO   | process [7709]:8598504000 | 无UUID | app.controller.demo:demo_async:30 - 成功请求 /demo-async
+2025-03-05 00:03:32.286 |   INFO   | process [7709]:8598504000 | 无UUID | uvicorn.server:shutdown:263 - Shutting down
+2025-03-05 00:03:32.388 |   INFO   | process [7709]:8598504000 | 无UUID | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-05 00:03:32.682 |   INFO   | process [7862]:8598504000 | 无UUID | app.core.logger:setup_logging:290 - 日志系统初始化完成
+2025-03-05 00:03:32.682 |   INFO   | process [7862]:8598504000 | 无UUID | main:lifespan:17 - 日志系统已初始化
+2025-03-05 00:03:32.682 |   INFO   | process [7862]:8598504000 | 无UUID | main:lifespan:18 - 应用程序已启动
+2025-03-05 00:03:32.683 |   INFO   | process [7862]:8598504000 | 无UUID | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-05 00:03:39.453 |   INFO   | process [7862]:8598504000 | 无UUID | uvicorn.server:shutdown:263 - Shutting down
+2025-03-05 00:03:39.554 |   INFO   | process [7862]:8598504000 | 无UUID | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-05 00:03:39.555 |   INFO   | process [7862]:8598504000 | 无UUID | main:lifespan:23 - 应用程序已关闭
+2025-03-05 00:03:39.859 |   INFO   | process [7881]:8598504000 | 无UUID | app.core.logger:setup_logging:291 - 日志系统初始化完成
+2025-03-05 00:03:39.859 |   INFO   | process [7881]:8598504000 | 无UUID | main:lifespan:18 - 日志系统已初始化
+2025-03-05 00:03:39.860 |   INFO   | process [7881]:8598504000 | 无UUID | main:lifespan:19 - 应用程序已启动
+2025-03-05 00:03:39.860 |   INFO   | process [7881]:8598504000 | 无UUID | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-05 00:03:39.961 |   INFO   | process [7881]:8598504000 | 无UUID | uvicorn.server:shutdown:263 - Shutting down
+2025-03-05 00:03:40.063 |   INFO   | process [7881]:8598504000 | 无UUID | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-05 00:03:40.063 |   INFO   | process [7881]:8598504000 | 无UUID | main:lifespan:24 - 应用程序已关闭
+2025-03-05 00:03:40.349 |   INFO   | process [7885]:8598504000 | 无UUID | app.core.logger:setup_logging:291 - 日志系统初始化完成
+2025-03-05 00:03:40.349 |   INFO   | process [7885]:8598504000 | 无UUID | main:lifespan:18 - 日志系统已初始化
+2025-03-05 00:03:40.349 |   INFO   | process [7885]:8598504000 | 无UUID | main:lifespan:19 - 应用程序已启动
+2025-03-05 00:03:40.349 |   INFO   | process [7885]:8598504000 | 无UUID | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-05 00:03:42.271 |   INFO   | process [7885]:8598504000 | 无UUID | uvicorn.server:shutdown:263 - Shutting down
+2025-03-05 00:03:42.373 |   INFO   | process [7885]:8598504000 | 无UUID | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-05 00:03:42.706 |   INFO   | process [7891]:8598504000 | 无UUID | app.core.logger:setup_logging:291 - 日志系统初始化完成
+2025-03-05 00:03:42.706 |   INFO   | process [7891]:8598504000 | 无UUID | main:lifespan:18 - 日志系统已初始化
+2025-03-05 00:03:42.706 |   INFO   | process [7891]:8598504000 | 无UUID | main:lifespan:19 - 应用程序已启动
+2025-03-05 00:03:42.706 |   INFO   | process [7891]:8598504000 | 无UUID | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-05 00:03:57.063 |   INFO   | process [7891]:8598504000 | 无UUID | uvicorn.server:shutdown:263 - Shutting down
+2025-03-05 00:03:57.165 |   INFO   | process [7891]:8598504000 | 无UUID | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-05 00:04:46.815 |   INFO   | process [8031]:8598504000 | 无UUID | app.core.logger:setup_logging:287 - 日志系统初始化完成
+2025-03-05 00:04:46.815 |   INFO   | process [8031]:8598504000 | 无UUID | main:lifespan:18 - 日志系统已初始化
+2025-03-05 00:04:46.815 |   INFO   | process [8031]:8598504000 | 无UUID | main:lifespan:19 - 应用程序已启动
+2025-03-05 00:04:46.816 |   INFO   | process [8031]:8598504000 | 无UUID | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-05 00:04:55.207 |   INFO   | process [8031]:8598504000 | 无UUID | uvicorn.server:shutdown:263 - Shutting down
+2025-03-05 00:04:55.309 |   INFO   | process [8031]:8598504000 | 无UUID | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-05 00:04:55.309 |   INFO   | process [8031]:8598504000 | 无UUID | main:lifespan:24 - 应用程序已关闭
+2025-03-05 00:04:55.599 |   INFO   | process [8046]:8598504000 | 无UUID | app.core.logger:setup_logging:287 - 日志系统初始化完成
+2025-03-05 00:04:55.599 |   INFO   | process [8046]:8598504000 | 无UUID | main:lifespan:18 - 日志系统已初始化
+2025-03-05 00:04:55.599 |   INFO   | process [8046]:8598504000 | 无UUID | main:lifespan:19 - 应用程序已启动
+2025-03-05 00:04:55.599 |   INFO   | process [8046]:8598504000 | 无UUID | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-05 00:05:41.906 |   INFO   | process [8046]:8598504000 | 无UUID | uvicorn.server:shutdown:263 - Shutting down
+2025-03-05 00:05:42.008 |   INFO   | process [8046]:8598504000 | 无UUID | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-05 00:05:42.008 |   INFO   | process [8046]:8598504000 | 无UUID | main:lifespan:24 - 应用程序已关闭
+2025-03-05 00:05:42.308 |   INFO   | process [8216]:8598504000 | 无UUID | app.core.logger:setup_logging:287 - 日志系统初始化完成
+2025-03-05 00:05:42.308 |   INFO   | process [8216]:8598504000 | 无UUID | main:lifespan:18 - 日志系统已初始化
+2025-03-05 00:05:42.308 |   INFO   | process [8216]:8598504000 | 无UUID | main:lifespan:19 - 应用程序已启动
+2025-03-05 00:05:42.309 |   INFO   | process [8216]:8598504000 | 无UUID | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-05 00:05:42.410 |   INFO   | process [8216]:8598504000 | 无UUID | uvicorn.server:shutdown:263 - Shutting down
+2025-03-05 00:05:42.512 |   INFO   | process [8216]:8598504000 | 无UUID | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-05 00:05:42.512 |   INFO   | process [8216]:8598504000 | 无UUID | main:lifespan:24 - 应用程序已关闭
+2025-03-05 00:05:42.802 |   INFO   | process [8221]:8598504000 | 无UUID | app.core.logger:setup_logging:287 - 日志系统初始化完成
+2025-03-05 00:05:42.802 |   INFO   | process [8221]:8598504000 | 无UUID | main:lifespan:18 - 日志系统已初始化
+2025-03-05 00:05:42.802 |   INFO   | process [8221]:8598504000 | 无UUID | main:lifespan:19 - 应用程序已启动
+2025-03-05 00:05:42.802 |   INFO   | process [8221]:8598504000 | 无UUID | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-05 00:05:52.504 |   INFO   | process [8221]:8598504000 | 无UUID | uvicorn.server:shutdown:263 - Shutting down
+2025-03-05 00:05:52.606 |   INFO   | process [8221]:8598504000 | 无UUID | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-05 00:05:53.992 |   INFO   | process [8255]:8598504000 | 无UUID | app.core.logger:setup_logging:287 - 日志系统初始化完成
+2025-03-05 00:05:53.992 |   INFO   | process [8255]:8598504000 | 无UUID | main:lifespan:18 - 日志系统已初始化
+2025-03-05 00:05:53.993 |   INFO   | process [8255]:8598504000 | 无UUID | main:lifespan:19 - 应用程序已启动
+2025-03-05 00:05:53.993 |   INFO   | process [8255]:8598504000 | 无UUID | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-05 00:06:00.466 |   INFO   | process [8255]:8598504000 | 无UUID | uvicorn.server:shutdown:263 - Shutting down
+2025-03-05 00:06:00.568 |   INFO   | process [8255]:8598504000 | 无UUID | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-05 00:06:00.568 |   INFO   | process [8255]:8598504000 | 无UUID | main:lifespan:24 - 应用程序已关闭
+2025-03-05 00:06:07.796 |   INFO   | process [8292]:8598504000 | 无UUID | app.core.logger:setup_logging:287 - 日志系统初始化完成
+2025-03-05 00:06:07.796 |   INFO   | process [8292]:8598504000 | 无UUID | main:lifespan:18 - 日志系统已初始化
+2025-03-05 00:06:07.796 |   INFO   | process [8292]:8598504000 | 无UUID | main:lifespan:19 - 应用程序已启动
+2025-03-05 00:06:07.796 |   INFO   | process [8292]:8598504000 | 无UUID | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-05 00:06:13.455 |   INFO   | process [8292]:8598504000 | 无UUID | uvicorn.server:shutdown:263 - Shutting down
+2025-03-05 00:06:13.557 |   INFO   | process [8292]:8598504000 | 无UUID | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-05 00:06:15.265 |   INFO   | process [8320]:8598504000 | 无UUID | app.core.logger:setup_logging:287 - 日志系统初始化完成
+2025-03-05 00:06:15.265 |   INFO   | process [8320]:8598504000 | 无UUID | main:lifespan:18 - 日志系统已初始化
+2025-03-05 00:06:15.265 |   INFO   | process [8320]:8598504000 | 无UUID | main:lifespan:19 - 应用程序已启动
+2025-03-05 00:06:15.266 |   INFO   | process [8320]:8598504000 | 无UUID | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-05 00:07:19.655 |   INFO   | process [8320]:8598504000 | 无UUID | uvicorn.server:shutdown:263 - Shutting down
+2025-03-05 00:07:19.756 |   INFO   | process [8320]:8598504000 | 无UUID | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-05 00:07:19.757 |   INFO   | process [8320]:8598504000 | 无UUID | main:lifespan:24 - 应用程序已关闭
+2025-03-05 00:07:20.057 |   INFO   | process [8432]:8598504000 | 无UUID | app.core.logger:setup_logging:287 - 日志系统初始化完成
+2025-03-05 00:07:20.057 |   INFO   | process [8432]:8598504000 | 无UUID | main:lifespan:18 - 日志系统已初始化
+2025-03-05 00:07:20.057 |   INFO   | process [8432]:8598504000 | 无UUID | main:lifespan:19 - 应用程序已启动
+2025-03-05 00:07:20.058 |   INFO   | process [8432]:8598504000 | 无UUID | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-05 00:07:27.034 |   INFO   | process [8432]:8598504000 | 无UUID | uvicorn.server:shutdown:263 - Shutting down
+2025-03-05 00:07:27.135 |   INFO   | process [8432]:8598504000 | 无UUID | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-05 00:07:27.136 |   INFO   | process [8432]:8598504000 | 无UUID | main:lifespan:24 - 应用程序已关闭
+2025-03-05 00:07:27.421 |   INFO   | process [8457]:8598504000 | 无UUID | app.core.logger:setup_logging:287 - 日志系统初始化完成
+2025-03-05 00:07:27.421 |   INFO   | process [8457]:8598504000 | 无UUID | main:lifespan:18 - 日志系统已初始化
+2025-03-05 00:07:27.421 |   INFO   | process [8457]:8598504000 | 无UUID | main:lifespan:19 - 应用程序已启动
+2025-03-05 00:07:27.421 |   INFO   | process [8457]:8598504000 | 无UUID | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-05 00:07:49.153 |   INFO   | process [8457]:8598504000 | 无UUID | uvicorn.server:shutdown:263 - Shutting down
+2025-03-05 00:07:49.254 |   INFO   | process [8457]:8598504000 | 无UUID | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-05 00:07:49.255 |   INFO   | process [8457]:8598504000 | 无UUID | main:lifespan:24 - 应用程序已关闭
+2025-03-05 00:08:26.095 |   INFO   | process [8552]:8598504000 | 无UUID | app.core.logger:setup_logging:287 - 日志系统初始化完成
+2025-03-05 00:08:26.095 |   INFO   | process [8552]:8598504000 | 无UUID | main:lifespan:18 - 日志系统已初始化
+2025-03-05 00:08:26.095 |   INFO   | process [8552]:8598504000 | 无UUID | main:lifespan:19 - 应用程序已启动
+2025-03-05 00:08:26.096 |   INFO   | process [8552]:8598504000 | 无UUID | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-05 00:08:32.459 |   INFO   | process [8552]:8598504000 | 无UUID | uvicorn.server:shutdown:263 - Shutting down
+2025-03-05 00:08:32.560 |   INFO   | process [8552]:8598504000 | 无UUID | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-05 00:08:32.560 |   INFO   | process [8552]:8598504000 | 无UUID | main:lifespan:24 - 应用程序已关闭
+2025-03-05 00:08:32.839 |   INFO   | process [8587]:8598504000 | 无UUID | app.core.logger:setup_logging:287 - 日志系统初始化完成
+2025-03-05 00:08:32.839 |   INFO   | process [8587]:8598504000 | 无UUID | main:lifespan:18 - 日志系统已初始化
+2025-03-05 00:08:32.839 |   INFO   | process [8587]:8598504000 | 无UUID | main:lifespan:19 - 应用程序已启动
+2025-03-05 00:08:32.840 |   INFO   | process [8587]:8598504000 | 无UUID | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-05 00:09:05.283 |   INFO   | process [8587]:8598504000 | 无UUID | uvicorn.server:shutdown:263 - Shutting down
+2025-03-05 00:09:05.385 |   INFO   | process [8587]:8598504000 | 无UUID | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-05 00:09:05.385 |   INFO   | process [8587]:8598504000 | 无UUID | main:lifespan:24 - 应用程序已关闭
+2025-03-05 00:09:13.150 |   INFO   | process [8655]:8598504000 | 无UUID | app.core.logger:setup_logging:290 - 日志系统初始化完成
+2025-03-05 00:09:13.150 |   INFO   | process [8655]:8598504000 | 无UUID | main:lifespan:18 - 日志系统已初始化
+2025-03-05 00:09:13.150 |   INFO   | process [8655]:8598504000 | 无UUID | main:lifespan:19 - 应用程序已启动
+2025-03-05 00:09:13.150 |   INFO   | process [8655]:8598504000 | 无UUID | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-05 00:09:19.419 |   INFO   | process [8655]:8598504000 | 无UUID | uvicorn.server:shutdown:263 - Shutting down
+2025-03-05 00:09:19.520 |   INFO   | process [8655]:8598504000 | 无UUID | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-05 00:09:19.521 |   INFO   | process [8655]:8598504000 | 无UUID | main:lifespan:24 - 应用程序已关闭
+2025-03-05 00:09:19.824 |   INFO   | process [8680]:8598504000 | 无UUID | app.core.logger:setup_logging:290 - 日志系统初始化完成
+2025-03-05 00:09:19.824 |   INFO   | process [8680]:8598504000 | 无UUID | main:lifespan:18 - 日志系统已初始化
+2025-03-05 00:09:19.824 |   INFO   | process [8680]:8598504000 | 无UUID | main:lifespan:19 - 应用程序已启动
+2025-03-05 00:09:19.824 |   INFO   | process [8680]:8598504000 | 无UUID | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-05 00:09:44.195 |   INFO   | process [8680]:8598504000 | 无UUID | uvicorn.server:shutdown:263 - Shutting down
+2025-03-05 00:09:44.296 |   INFO   | process [8680]:8598504000 | 无UUID | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-05 00:09:44.297 |   INFO   | process [8680]:8598504000 | 无UUID | main:lifespan:24 - 应用程序已关闭
+2025-03-05 00:09:44.585 |   INFO   | process [8711]:8598504000 | 无UUID | app.core.logger:setup_logging:290 - 日志系统初始化完成
+2025-03-05 00:09:44.586 |   INFO   | process [8711]:8598504000 | 无UUID | main:lifespan:18 - 日志系统已初始化
+2025-03-05 00:09:44.586 |   INFO   | process [8711]:8598504000 | 无UUID | main:lifespan:19 - 应用程序已启动
+2025-03-05 00:09:44.586 |   INFO   | process [8711]:8598504000 | 无UUID | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-05 00:09:49.546 |   INFO   | process [8711]:8598504000 | 无UUID | uvicorn.server:shutdown:263 - Shutting down
+2025-03-05 00:09:49.647 |   INFO   | process [8711]:8598504000 | 无UUID | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-05 00:09:49.953 |   INFO   | process [8723]:8598504000 | 无UUID | app.core.logger:setup_logging:290 - 日志系统初始化完成
+2025-03-05 00:09:49.954 |   INFO   | process [8723]:8598504000 | 无UUID | main:lifespan:18 - 日志系统已初始化
+2025-03-05 00:09:49.954 |   INFO   | process [8723]:8598504000 | 无UUID | main:lifespan:19 - 应用程序已启动
+2025-03-05 00:09:49.954 |   INFO   | process [8723]:8598504000 | 无UUID | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-05 00:09:51.964 |   INFO   | process [8723]:8598504000 | 无UUID | app.controller.demo:demo_success:18 - 成功请求 /demo
+2025-03-05 00:09:53.212 |   INFO   | process [8723]:8598504000 | 无UUID | app.controller.demo:demo_success:18 - 成功请求 /demo
+2025-03-05 00:09:53.533 |   INFO   | process [8723]:8598504000 | 无UUID | app.controller.demo:demo_success:18 - 成功请求 /demo
+2025-03-05 00:09:53.691 |   INFO   | process [8723]:8598504000 | 无UUID | app.controller.demo:demo_success:18 - 成功请求 /demo
+2025-03-05 00:09:57.064 |   INFO   | process [8723]:8598504000 | eba31383-ae96-4fa3-81ef-3ee63a726fd2 | app.core.logger:async_wrapper:66 - 请求开始: {'uuid': 'eba31383-ae96-4fa3-81ef-3ee63a726fd2', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:09:57.065 |   INFO   | process [8723]:8598504000 | eba31383-ae96-4fa3-81ef-3ee63a726fd2 | app.core.logger:log_with_uuid:135 - 处理 hello 请求，参数: name=world
+2025-03-05 00:09:57.066 |   INFO   | process [8723]:8598504000 | eba31383-ae96-4fa3-81ef-3ee63a726fd2 | app.core.logger:log_with_uuid:135 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:09:57.066 |   INFO   | process [8723]:8598504000 | eba31383-ae96-4fa3-81ef-3ee63a726fd2 | app.core.logger:async_wrapper:70 - 请求成功完成: eba31383-ae96-4fa3-81ef-3ee63a726fd2
+2025-03-05 00:10:50.428 |   INFO   | process [8723]:8598504000 | 无UUID | uvicorn.server:shutdown:263 - Shutting down
+2025-03-05 00:10:50.530 |   INFO   | process [8723]:8598504000 | 无UUID | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-05 00:10:50.837 |   INFO   | process [8785]:8598504000 | 无UUID | app.core.logger:setup_logging:290 - 日志系统初始化完成
+2025-03-05 00:10:50.838 |   INFO   | process [8785]:8598504000 | 无UUID | main:lifespan:18 - 日志系统已初始化
+2025-03-05 00:10:50.838 |   INFO   | process [8785]:8598504000 | 无UUID | main:lifespan:19 - 应用程序已启动
+2025-03-05 00:10:50.838 |   INFO   | process [8785]:8598504000 | 无UUID | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-05 00:10:54.596 |   INFO   | process [8785]:8598504000 | bc259b8b-f22e-4e4e-9cbb-43760090ac5d | app.core.logger:async_wrapper:66 - 请求开始: {'uuid': 'bc259b8b-f22e-4e4e-9cbb-43760090ac5d', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:10:54.596 |   INFO   | process [8785]:8598504000 | bc259b8b-f22e-4e4e-9cbb-43760090ac5d | app.core.logger:log_with_uuid:135 - 处理 hello 请求，参数: name=world
+2025-03-05 00:10:54.596 |   INFO   | process [8785]:8598504000 | 无UUID | app.controller.demo:hello:64 - 请求 /demo/hello 成功
+2025-03-05 00:10:54.596 |   INFO   | process [8785]:8598504000 | bc259b8b-f22e-4e4e-9cbb-43760090ac5d | app.core.logger:log_with_uuid:135 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:10:54.597 |   INFO   | process [8785]:8598504000 | bc259b8b-f22e-4e4e-9cbb-43760090ac5d | app.core.logger:async_wrapper:70 - 请求成功完成: bc259b8b-f22e-4e4e-9cbb-43760090ac5d
+2025-03-05 00:10:55.997 |   INFO   | process [8785]:8598504000 | cb994dc5-47bd-4f74-969a-ba41e07cbd19 | app.core.logger:async_wrapper:66 - 请求开始: {'uuid': 'cb994dc5-47bd-4f74-969a-ba41e07cbd19', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:10:55.998 |   INFO   | process [8785]:8598504000 | cb994dc5-47bd-4f74-969a-ba41e07cbd19 | app.core.logger:log_with_uuid:135 - 处理 hello 请求，参数: name=world
+2025-03-05 00:10:55.998 |   INFO   | process [8785]:8598504000 | 无UUID | app.controller.demo:hello:64 - 请求 /demo/hello 成功
+2025-03-05 00:10:55.999 |   INFO   | process [8785]:8598504000 | cb994dc5-47bd-4f74-969a-ba41e07cbd19 | app.core.logger:log_with_uuid:135 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:10:55.999 |   INFO   | process [8785]:8598504000 | cb994dc5-47bd-4f74-969a-ba41e07cbd19 | app.core.logger:async_wrapper:70 - 请求成功完成: cb994dc5-47bd-4f74-969a-ba41e07cbd19
+2025-03-05 00:12:52.940 |   INFO   | process [8785]:8598504000 | 无UUID | uvicorn.server:shutdown:263 - Shutting down
+2025-03-05 00:12:53.042 |   INFO   | process [8785]:8598504000 | 无UUID | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-05 00:13:21.863 |   INFO   | process [9085]:8598504000 | 无UUID | app.core.logger:setup_logging:319 - 日志系统初始化完成
+2025-03-05 00:13:21.863 |   INFO   | process [9085]:8598504000 | 无UUID | main:lifespan:18 - 日志系统已初始化
+2025-03-05 00:13:21.863 |   INFO   | process [9085]:8598504000 | 无UUID | main:lifespan:19 - 应用程序已启动
+2025-03-05 00:13:21.863 |   INFO   | process [9085]:8598504000 | 无UUID | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-05 00:13:26.644 |   INFO   | process [9085]:8598504000 | cb8d7aea-e079-4762-a9fe-8c9562fabe1a | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': 'cb8d7aea-e079-4762-a9fe-8c9562fabe1a', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:13:26.645 |   INFO   | process [9085]:8598504000 | cb8d7aea-e079-4762-a9fe-8c9562fabe1a | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:13:26.645 |   INFO   | process [9085]:8598504000 | cb8d7aea-e079-4762-a9fe-8c9562fabe1a | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:13:26.646 |   INFO   | process [9085]:8598504000 | cb8d7aea-e079-4762-a9fe-8c9562fabe1a | app.core.logger:async_wrapper:73 - 请求成功完成: cb8d7aea-e079-4762-a9fe-8c9562fabe1a
+2025-03-05 00:13:39.961 |   INFO   | process [9085]:8598504000 | 无UUID | uvicorn.server:shutdown:263 - Shutting down
+2025-03-05 00:13:40.063 |   INFO   | process [9085]:8598504000 | 无UUID | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-05 00:13:40.063 |   INFO   | process [9085]:8598504000 | 无UUID | main:lifespan:24 - 应用程序已关闭
+2025-03-05 00:13:40.360 |   INFO   | process [9117]:8598504000 | 无UUID | app.core.logger:setup_logging:319 - 日志系统初始化完成
+2025-03-05 00:13:40.360 |   INFO   | process [9117]:8598504000 | 无UUID | main:lifespan:18 - 日志系统已初始化
+2025-03-05 00:13:40.360 |   INFO   | process [9117]:8598504000 | 无UUID | main:lifespan:19 - 应用程序已启动
+2025-03-05 00:13:40.361 |   INFO   | process [9117]:8598504000 | 无UUID | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-05 00:14:02.899 |   INFO   | process [9117]:8598504000 | 无UUID | uvicorn.server:shutdown:263 - Shutting down
+2025-03-05 00:14:03.001 |   INFO   | process [9117]:8598504000 | 无UUID | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-05 00:14:03.293 |   INFO   | process [9142]:8598504000 | 无UUID | app.core.logger:setup_logging:319 - 日志系统初始化完成
+2025-03-05 00:14:03.294 |   INFO   | process [9142]:8598504000 | 无UUID | main:lifespan:18 - 日志系统已初始化
+2025-03-05 00:14:03.294 |   INFO   | process [9142]:8598504000 | 无UUID | main:lifespan:19 - 应用程序已启动
+2025-03-05 00:14:03.294 |   INFO   | process [9142]:8598504000 | 无UUID | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-05 00:14:40.876 |   INFO   | process [9142]:8598504000 | 无UUID | app.core.logger:log_info:145 - 成功请求 /demo
+2025-03-05 00:14:53.286 |   INFO   | process [9142]:8598504000 | 无UUID | app.core.logger:log_info:145 - 成功请求 /demo
+2025-03-05 00:14:55.646 |   INFO   | process [9142]:8598504000 | 无UUID | app.core.logger:log_info:145 - 成功请求 /demo
+2025-03-05 00:14:55.978 |   INFO   | process [9142]:8598504000 | 无UUID | app.core.logger:log_info:145 - 成功请求 /demo
+2025-03-05 00:14:56.158 |   INFO   | process [9142]:8598504000 | 无UUID | app.core.logger:log_info:145 - 成功请求 /demo
+2025-03-05 00:14:56.316 |   INFO   | process [9142]:8598504000 | 无UUID | app.core.logger:log_info:145 - 成功请求 /demo
+2025-03-05 00:14:59.271 |   INFO   | process [9142]:8598504000 | 无UUID | app.core.logger:log_info:145 - 成功请求 /demo
+2025-03-05 00:14:59.491 |   INFO   | process [9142]:8598504000 | 无UUID | app.core.logger:log_info:145 - 成功请求 /demo
+2025-03-05 00:14:59.860 |   INFO   | process [9142]:8598504000 | 无UUID | app.core.logger:log_info:145 - 成功请求 /demo
+2025-03-05 00:15:00.041 |   INFO   | process [9142]:8598504000 | 无UUID | app.core.logger:log_info:145 - 成功请求 /demo
+2025-03-05 00:15:10.153 |   INFO   | process [9142]:8598504000 | 无UUID | uvicorn.server:shutdown:263 - Shutting down
+2025-03-05 00:15:10.560 |   INFO   | process [9238]:8598504000 | 无UUID | app.core.logger:setup_logging:319 - 日志系统初始化完成
+2025-03-05 00:15:10.560 |   INFO   | process [9238]:8598504000 | 无UUID | main:lifespan:18 - 日志系统已初始化
+2025-03-05 00:15:10.560 |   INFO   | process [9238]:8598504000 | 无UUID | main:lifespan:19 - 应用程序已启动
+2025-03-05 00:15:10.561 |   INFO   | process [9238]:8598504000 | 无UUID | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-05 00:15:31.281 |   INFO   | process [9238]:8598504000 | 无UUID | uvicorn.server:shutdown:263 - Shutting down
+2025-03-05 00:15:31.382 |   INFO   | process [9238]:8598504000 | 无UUID | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-05 00:15:31.383 |   INFO   | process [9238]:8598504000 | 无UUID | main:lifespan:24 - 应用程序已关闭
+2025-03-05 00:15:31.682 |   INFO   | process [9270]:8598504000 | 无UUID | app.core.logger:setup_logging:319 - 日志系统初始化完成
+2025-03-05 00:15:31.682 |   INFO   | process [9270]:8598504000 | 无UUID | main:lifespan:18 - 日志系统已初始化
+2025-03-05 00:15:31.682 |   INFO   | process [9270]:8598504000 | 无UUID | main:lifespan:19 - 应用程序已启动
+2025-03-05 00:15:31.683 |   INFO   | process [9270]:8598504000 | 无UUID | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-05 00:15:44.042 |   INFO   | process [9270]:8598504000 | 9331cfc1-b19e-45f6-a6d7-bbc678f772f6 | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': '9331cfc1-b19e-45f6-a6d7-bbc678f772f6', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:15:44.042 |   INFO   | process [9270]:8598504000 | 9331cfc1-b19e-45f6-a6d7-bbc678f772f6 | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:15:44.042 |   INFO   | process [9270]:8598504000 | 9331cfc1-b19e-45f6-a6d7-bbc678f772f6 | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:15:44.042 |   INFO   | process [9270]:8598504000 | 9331cfc1-b19e-45f6-a6d7-bbc678f772f6 | app.core.logger:async_wrapper:73 - 请求成功完成: 9331cfc1-b19e-45f6-a6d7-bbc678f772f6
+2025-03-05 00:16:02.518 |   INFO   | process [9270]:8598504000 | 无UUID | uvicorn.server:shutdown:263 - Shutting down
+2025-03-05 00:16:02.620 |   INFO   | process [9270]:8598504000 | 无UUID | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-05 00:16:02.621 |   INFO   | process [9270]:8598504000 | 无UUID | main:lifespan:24 - 应用程序已关闭
+2025-03-05 00:16:02.945 |   INFO   | process [9315]:8598504000 | 无UUID | app.core.logger:setup_logging:319 - 日志系统初始化完成
+2025-03-05 00:16:02.945 |   INFO   | process [9315]:8598504000 | 无UUID | main:lifespan:18 - 日志系统已初始化
+2025-03-05 00:16:02.945 |   INFO   | process [9315]:8598504000 | 无UUID | main:lifespan:19 - 应用程序已启动
+2025-03-05 00:16:02.945 |   INFO   | process [9315]:8598504000 | 无UUID | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-05 00:16:10.830 |   INFO   | process [9315]:8598504000 | 无UUID | uvicorn.server:shutdown:263 - Shutting down
+2025-03-05 00:16:10.932 |   INFO   | process [9315]:8598504000 | 无UUID | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-05 00:16:10.932 |   INFO   | process [9315]:8598504000 | 无UUID | main:lifespan:24 - 应用程序已关闭
+2025-03-05 00:16:10.933 |   INFO   | process [9315]:8598504000 | 无UUID | uvicorn.lifespan.on:shutdown:76 - Application shutdown complete.
+2025-03-05 00:16:11.219 |   INFO   | process [9332]:8598504000 | 无UUID | app.core.logger:setup_logging:319 - 日志系统初始化完成
+2025-03-05 00:16:11.219 |   INFO   | process [9332]:8598504000 | 无UUID | main:lifespan:18 - 日志系统已初始化
+2025-03-05 00:16:11.219 |   INFO   | process [9332]:8598504000 | 无UUID | main:lifespan:19 - 应用程序已启动
+2025-03-05 00:16:11.220 |   INFO   | process [9332]:8598504000 | 无UUID | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-05 00:16:26.084 |   INFO   | process [9332]:8598504000 | 无UUID | uvicorn.server:shutdown:263 - Shutting down
+2025-03-05 00:16:26.483 |   INFO   | process [9352]:8598504000 | 无UUID | app.core.logger:setup_logging:319 - 日志系统初始化完成
+2025-03-05 00:16:26.483 |   INFO   | process [9352]:8598504000 | 无UUID | main:lifespan:18 - 日志系统已初始化
+2025-03-05 00:16:26.484 |   INFO   | process [9352]:8598504000 | 无UUID | main:lifespan:19 - 应用程序已启动
+2025-03-05 00:16:26.484 |   INFO   | process [9352]:8598504000 | 无UUID | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-05 00:16:29.572 |   INFO   | process [9352]:8598504000 | b9bb43a9-571c-477c-90e5-e55cfe3b06cc | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': 'b9bb43a9-571c-477c-90e5-e55cfe3b06cc', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:16:29.573 |   INFO   | process [9352]:8598504000 | b9bb43a9-571c-477c-90e5-e55cfe3b06cc | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:16:29.573 |   INFO   | process [9352]:8598504000 | b9bb43a9-571c-477c-90e5-e55cfe3b06cc | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:16:29.573 |   INFO   | process [9352]:8598504000 | b9bb43a9-571c-477c-90e5-e55cfe3b06cc | app.core.logger:async_wrapper:73 - 请求成功完成: b9bb43a9-571c-477c-90e5-e55cfe3b06cc
+2025-03-05 00:16:30.072 |   INFO   | process [9352]:8598504000 | fce3a15a-68fb-4d50-8885-0c8ac663902d | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': 'fce3a15a-68fb-4d50-8885-0c8ac663902d', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:16:30.073 |   INFO   | process [9352]:8598504000 | fce3a15a-68fb-4d50-8885-0c8ac663902d | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:16:30.073 |   INFO   | process [9352]:8598504000 | fce3a15a-68fb-4d50-8885-0c8ac663902d | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:16:30.074 |   INFO   | process [9352]:8598504000 | fce3a15a-68fb-4d50-8885-0c8ac663902d | app.core.logger:async_wrapper:73 - 请求成功完成: fce3a15a-68fb-4d50-8885-0c8ac663902d
+2025-03-05 00:16:31.298 |   INFO   | process [9352]:8598504000 | 9c7282e0-3324-4a92-9168-b6f7dea990b0 | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': '9c7282e0-3324-4a92-9168-b6f7dea990b0', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:16:31.299 |   INFO   | process [9352]:8598504000 | 9c7282e0-3324-4a92-9168-b6f7dea990b0 | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:16:31.299 |   INFO   | process [9352]:8598504000 | 9c7282e0-3324-4a92-9168-b6f7dea990b0 | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:16:31.299 |   INFO   | process [9352]:8598504000 | 9c7282e0-3324-4a92-9168-b6f7dea990b0 | app.core.logger:async_wrapper:73 - 请求成功完成: 9c7282e0-3324-4a92-9168-b6f7dea990b0
+2025-03-05 00:16:31.708 |   INFO   | process [9352]:8598504000 | 48c3f562-98c3-48b2-90a7-a1ca7f4ff078 | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': '48c3f562-98c3-48b2-90a7-a1ca7f4ff078', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:16:31.708 |   INFO   | process [9352]:8598504000 | 48c3f562-98c3-48b2-90a7-a1ca7f4ff078 | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:16:31.709 |   INFO   | process [9352]:8598504000 | 48c3f562-98c3-48b2-90a7-a1ca7f4ff078 | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:16:31.709 |   INFO   | process [9352]:8598504000 | 48c3f562-98c3-48b2-90a7-a1ca7f4ff078 | app.core.logger:async_wrapper:73 - 请求成功完成: 48c3f562-98c3-48b2-90a7-a1ca7f4ff078
+2025-03-05 00:16:32.005 |   INFO   | process [9352]:8598504000 | b0e92383-dd57-4f9c-bf60-33fa3003ee41 | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': 'b0e92383-dd57-4f9c-bf60-33fa3003ee41', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:16:32.005 |   INFO   | process [9352]:8598504000 | b0e92383-dd57-4f9c-bf60-33fa3003ee41 | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:16:32.005 |   INFO   | process [9352]:8598504000 | b0e92383-dd57-4f9c-bf60-33fa3003ee41 | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:16:32.005 |   INFO   | process [9352]:8598504000 | b0e92383-dd57-4f9c-bf60-33fa3003ee41 | app.core.logger:async_wrapper:73 - 请求成功完成: b0e92383-dd57-4f9c-bf60-33fa3003ee41
+2025-03-05 00:16:32.223 |   INFO   | process [9352]:8598504000 | a2e9ba9b-713c-4876-a5c6-da1eedb8924f | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': 'a2e9ba9b-713c-4876-a5c6-da1eedb8924f', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:16:32.223 |   INFO   | process [9352]:8598504000 | a2e9ba9b-713c-4876-a5c6-da1eedb8924f | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:16:32.223 |   INFO   | process [9352]:8598504000 | a2e9ba9b-713c-4876-a5c6-da1eedb8924f | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:16:32.224 |   INFO   | process [9352]:8598504000 | a2e9ba9b-713c-4876-a5c6-da1eedb8924f | app.core.logger:async_wrapper:73 - 请求成功完成: a2e9ba9b-713c-4876-a5c6-da1eedb8924f
+2025-03-05 00:16:32.459 |   INFO   | process [9352]:8598504000 | 99d0aa18-78d3-4623-99fc-c5e5d61222ae | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': '99d0aa18-78d3-4623-99fc-c5e5d61222ae', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:16:32.459 |   INFO   | process [9352]:8598504000 | 99d0aa18-78d3-4623-99fc-c5e5d61222ae | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:16:32.459 |   INFO   | process [9352]:8598504000 | 99d0aa18-78d3-4623-99fc-c5e5d61222ae | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:16:32.460 |   INFO   | process [9352]:8598504000 | 99d0aa18-78d3-4623-99fc-c5e5d61222ae | app.core.logger:async_wrapper:73 - 请求成功完成: 99d0aa18-78d3-4623-99fc-c5e5d61222ae
+2025-03-05 00:16:32.705 |   INFO   | process [9352]:8598504000 | 1927e659-eaf5-490c-84db-99d641a865dc | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': '1927e659-eaf5-490c-84db-99d641a865dc', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:16:32.706 |   INFO   | process [9352]:8598504000 | 1927e659-eaf5-490c-84db-99d641a865dc | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:16:32.706 |   INFO   | process [9352]:8598504000 | 1927e659-eaf5-490c-84db-99d641a865dc | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:16:32.706 |   INFO   | process [9352]:8598504000 | 1927e659-eaf5-490c-84db-99d641a865dc | app.core.logger:async_wrapper:73 - 请求成功完成: 1927e659-eaf5-490c-84db-99d641a865dc
+2025-03-05 00:16:32.874 |   INFO   | process [9352]:8598504000 | d8626952-d7cb-4f87-9eea-3904ac874a82 | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': 'd8626952-d7cb-4f87-9eea-3904ac874a82', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:16:32.875 |   INFO   | process [9352]:8598504000 | d8626952-d7cb-4f87-9eea-3904ac874a82 | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:16:32.875 |   INFO   | process [9352]:8598504000 | d8626952-d7cb-4f87-9eea-3904ac874a82 | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:16:32.875 |   INFO   | process [9352]:8598504000 | d8626952-d7cb-4f87-9eea-3904ac874a82 | app.core.logger:async_wrapper:73 - 请求成功完成: d8626952-d7cb-4f87-9eea-3904ac874a82
+2025-03-05 00:16:33.046 |   INFO   | process [9352]:8598504000 | 5de8a717-247f-47d8-bf73-c792a71c403f | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': '5de8a717-247f-47d8-bf73-c792a71c403f', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:16:33.047 |   INFO   | process [9352]:8598504000 | 5de8a717-247f-47d8-bf73-c792a71c403f | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:16:33.047 |   INFO   | process [9352]:8598504000 | 5de8a717-247f-47d8-bf73-c792a71c403f | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:16:33.047 |   INFO   | process [9352]:8598504000 | 5de8a717-247f-47d8-bf73-c792a71c403f | app.core.logger:async_wrapper:73 - 请求成功完成: 5de8a717-247f-47d8-bf73-c792a71c403f
+2025-03-05 00:17:14.331 |   INFO   | process [9352]:8598504000 | 33d05d11-34a0-428e-9405-f681ef89cd09 | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': '33d05d11-34a0-428e-9405-f681ef89cd09', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:17:14.331 |   INFO   | process [9352]:8598504000 | 33d05d11-34a0-428e-9405-f681ef89cd09 | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:17:14.331 |   INFO   | process [9352]:8598504000 | 33d05d11-34a0-428e-9405-f681ef89cd09 | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:17:14.331 |   INFO   | process [9352]:8598504000 | 33d05d11-34a0-428e-9405-f681ef89cd09 | app.core.logger:async_wrapper:73 - 请求成功完成: 33d05d11-34a0-428e-9405-f681ef89cd09
+2025-03-05 00:17:15.178 |   INFO   | process [9352]:8598504000 | b8ac63c7-bb81-410f-9141-747ddd95c01e | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': 'b8ac63c7-bb81-410f-9141-747ddd95c01e', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:17:15.179 |   INFO   | process [9352]:8598504000 | b8ac63c7-bb81-410f-9141-747ddd95c01e | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:17:15.180 |   INFO   | process [9352]:8598504000 | b8ac63c7-bb81-410f-9141-747ddd95c01e | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:17:15.180 |   INFO   | process [9352]:8598504000 | b8ac63c7-bb81-410f-9141-747ddd95c01e | app.core.logger:async_wrapper:73 - 请求成功完成: b8ac63c7-bb81-410f-9141-747ddd95c01e
+2025-03-05 00:17:19.074 |   INFO   | process [9352]:8598504000 | 无UUID | uvicorn.server:shutdown:263 - Shutting down
+2025-03-05 00:17:19.176 |   INFO   | process [9352]:8598504000 | 无UUID | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-05 00:17:19.177 |   INFO   | process [9352]:8598504000 | 无UUID | main:lifespan:24 - 应用程序已关闭
+2025-03-05 00:17:19.484 |   INFO   | process [9456]:8598504000 | 无UUID | app.core.logger:setup_logging:319 - 日志系统初始化完成
+2025-03-05 00:17:19.485 |   INFO   | process [9456]:8598504000 | 无UUID | main:lifespan:18 - 日志系统已初始化
+2025-03-05 00:17:19.485 |   INFO   | process [9456]:8598504000 | 无UUID | main:lifespan:19 - 应用程序已启动
+2025-03-05 00:17:19.485 |   INFO   | process [9456]:8598504000 | 无UUID | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-05 00:17:21.505 |   INFO   | process [9456]:8598504000 | 4534b73a-3bff-4186-a0e6-84eb6ac58e66 | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': '4534b73a-3bff-4186-a0e6-84eb6ac58e66', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:17:21.507 |   INFO   | process [9456]:8598504000 | 4534b73a-3bff-4186-a0e6-84eb6ac58e66 | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:17:21.507 |   INFO   | process [9456]:8598504000 | 4534b73a-3bff-4186-a0e6-84eb6ac58e66 | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:17:21.507 |   INFO   | process [9456]:8598504000 | 4534b73a-3bff-4186-a0e6-84eb6ac58e66 | app.core.logger:async_wrapper:73 - 请求成功完成: 4534b73a-3bff-4186-a0e6-84eb6ac58e66
+2025-03-05 00:17:21.954 |   INFO   | process [9456]:8598504000 | 8403e50d-8883-4eec-b639-6e80feee60ba | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': '8403e50d-8883-4eec-b639-6e80feee60ba', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:17:21.956 |   INFO   | process [9456]:8598504000 | 8403e50d-8883-4eec-b639-6e80feee60ba | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:17:21.956 |   INFO   | process [9456]:8598504000 | 8403e50d-8883-4eec-b639-6e80feee60ba | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:17:21.956 |   INFO   | process [9456]:8598504000 | 8403e50d-8883-4eec-b639-6e80feee60ba | app.core.logger:async_wrapper:73 - 请求成功完成: 8403e50d-8883-4eec-b639-6e80feee60ba
+2025-03-05 00:17:22.369 |   INFO   | process [9456]:8598504000 | 5c6b6d4f-f1fa-461c-a101-fd27c1c9a30e | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': '5c6b6d4f-f1fa-461c-a101-fd27c1c9a30e', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:17:22.370 |   INFO   | process [9456]:8598504000 | 5c6b6d4f-f1fa-461c-a101-fd27c1c9a30e | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:17:22.370 |   INFO   | process [9456]:8598504000 | 5c6b6d4f-f1fa-461c-a101-fd27c1c9a30e | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:17:22.371 |   INFO   | process [9456]:8598504000 | 5c6b6d4f-f1fa-461c-a101-fd27c1c9a30e | app.core.logger:async_wrapper:73 - 请求成功完成: 5c6b6d4f-f1fa-461c-a101-fd27c1c9a30e
+2025-03-05 00:17:22.786 |   INFO   | process [9456]:8598504000 | 2b40e866-ff5f-4407-8d58-3548d98bf351 | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': '2b40e866-ff5f-4407-8d58-3548d98bf351', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:17:22.787 |   INFO   | process [9456]:8598504000 | 2b40e866-ff5f-4407-8d58-3548d98bf351 | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:17:22.787 |   INFO   | process [9456]:8598504000 | 2b40e866-ff5f-4407-8d58-3548d98bf351 | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:17:22.788 |   INFO   | process [9456]:8598504000 | 2b40e866-ff5f-4407-8d58-3548d98bf351 | app.core.logger:async_wrapper:73 - 请求成功完成: 2b40e866-ff5f-4407-8d58-3548d98bf351
+2025-03-05 00:17:43.341 |   INFO   | process [9456]:8598504000 | 无UUID | uvicorn.server:shutdown:263 - Shutting down
+2025-03-05 00:17:43.442 |   INFO   | process [9456]:8598504000 | 无UUID | uvicorn.lifespan.on:shutdown:67 - Waiting for application shutdown.
+2025-03-05 00:17:43.751 |   INFO   | process [9501]:8598504000 | 无UUID | app.core.logger:setup_logging:319 - 日志系统初始化完成
+2025-03-05 00:17:43.751 |   INFO   | process [9501]:8598504000 | 无UUID | main:lifespan:18 - 日志系统已初始化
+2025-03-05 00:17:43.751 |   INFO   | process [9501]:8598504000 | 无UUID | main:lifespan:19 - 应用程序已启动
+2025-03-05 00:17:43.751 |   INFO   | process [9501]:8598504000 | 无UUID | uvicorn.lifespan.on:startup:62 - Application startup complete.
+2025-03-05 00:17:46.060 |   INFO   | process [9501]:8598504000 | e3430b3b-1fb2-4e99-94ed-5e4a9851aa72 | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': 'e3430b3b-1fb2-4e99-94ed-5e4a9851aa72', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:17:46.061 |   INFO   | process [9501]:8598504000 | e3430b3b-1fb2-4e99-94ed-5e4a9851aa72 | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:17:46.061 |   INFO   | process [9501]:8598504000 | e3430b3b-1fb2-4e99-94ed-5e4a9851aa72 | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:17:46.062 |   INFO   | process [9501]:8598504000 | e3430b3b-1fb2-4e99-94ed-5e4a9851aa72 | app.core.logger:async_wrapper:73 - 请求成功完成: e3430b3b-1fb2-4e99-94ed-5e4a9851aa72
+2025-03-05 00:17:46.611 |   INFO   | process [9501]:8598504000 | b07cc014-0b3f-4d7a-946b-d3c704f542d9 | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': 'b07cc014-0b3f-4d7a-946b-d3c704f542d9', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:17:46.612 |   INFO   | process [9501]:8598504000 | b07cc014-0b3f-4d7a-946b-d3c704f542d9 | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:17:46.612 |   INFO   | process [9501]:8598504000 | b07cc014-0b3f-4d7a-946b-d3c704f542d9 | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:17:46.613 |   INFO   | process [9501]:8598504000 | b07cc014-0b3f-4d7a-946b-d3c704f542d9 | app.core.logger:async_wrapper:73 - 请求成功完成: b07cc014-0b3f-4d7a-946b-d3c704f542d9
+2025-03-05 00:17:46.877 |   INFO   | process [9501]:8598504000 | 5b4efd45-9977-4b17-b4e5-2174baf45078 | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': '5b4efd45-9977-4b17-b4e5-2174baf45078', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:17:46.877 |   INFO   | process [9501]:8598504000 | 5b4efd45-9977-4b17-b4e5-2174baf45078 | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:17:46.877 |   INFO   | process [9501]:8598504000 | 5b4efd45-9977-4b17-b4e5-2174baf45078 | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:17:46.878 |   INFO   | process [9501]:8598504000 | 5b4efd45-9977-4b17-b4e5-2174baf45078 | app.core.logger:async_wrapper:73 - 请求成功完成: 5b4efd45-9977-4b17-b4e5-2174baf45078
+2025-03-05 00:17:47.051 |   INFO   | process [9501]:8598504000 | e44d3c33-fe71-4d63-a4ac-08bf1c1bfa58 | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': 'e44d3c33-fe71-4d63-a4ac-08bf1c1bfa58', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:17:47.052 |   INFO   | process [9501]:8598504000 | e44d3c33-fe71-4d63-a4ac-08bf1c1bfa58 | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:17:47.052 |   INFO   | process [9501]:8598504000 | e44d3c33-fe71-4d63-a4ac-08bf1c1bfa58 | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:17:47.053 |   INFO   | process [9501]:8598504000 | e44d3c33-fe71-4d63-a4ac-08bf1c1bfa58 | app.core.logger:async_wrapper:73 - 请求成功完成: e44d3c33-fe71-4d63-a4ac-08bf1c1bfa58
+2025-03-05 00:17:47.236 |   INFO   | process [9501]:8598504000 | 33a67550-3ede-484b-8822-4b6fe508b4af | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': '33a67550-3ede-484b-8822-4b6fe508b4af', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:17:47.236 |   INFO   | process [9501]:8598504000 | 33a67550-3ede-484b-8822-4b6fe508b4af | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:17:47.236 |   INFO   | process [9501]:8598504000 | 33a67550-3ede-484b-8822-4b6fe508b4af | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:17:47.237 |   INFO   | process [9501]:8598504000 | 33a67550-3ede-484b-8822-4b6fe508b4af | app.core.logger:async_wrapper:73 - 请求成功完成: 33a67550-3ede-484b-8822-4b6fe508b4af
+2025-03-05 00:17:47.414 |   INFO   | process [9501]:8598504000 | d052686b-93c7-49a7-a7e9-da33629dbb05 | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': 'd052686b-93c7-49a7-a7e9-da33629dbb05', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:17:47.414 |   INFO   | process [9501]:8598504000 | d052686b-93c7-49a7-a7e9-da33629dbb05 | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:17:47.415 |   INFO   | process [9501]:8598504000 | d052686b-93c7-49a7-a7e9-da33629dbb05 | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:17:47.415 |   INFO   | process [9501]:8598504000 | d052686b-93c7-49a7-a7e9-da33629dbb05 | app.core.logger:async_wrapper:73 - 请求成功完成: d052686b-93c7-49a7-a7e9-da33629dbb05
+2025-03-05 00:17:47.584 |   INFO   | process [9501]:8598504000 | 0eee3c60-2391-4331-8861-4476b95d7e57 | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': '0eee3c60-2391-4331-8861-4476b95d7e57', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:17:47.585 |   INFO   | process [9501]:8598504000 | 0eee3c60-2391-4331-8861-4476b95d7e57 | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:17:47.585 |   INFO   | process [9501]:8598504000 | 0eee3c60-2391-4331-8861-4476b95d7e57 | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:17:47.585 |   INFO   | process [9501]:8598504000 | 0eee3c60-2391-4331-8861-4476b95d7e57 | app.core.logger:async_wrapper:73 - 请求成功完成: 0eee3c60-2391-4331-8861-4476b95d7e57
+2025-03-05 00:17:47.763 |   INFO   | process [9501]:8598504000 | 0fb4e963-b7d2-4f8a-889f-816419c4985a | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': '0fb4e963-b7d2-4f8a-889f-816419c4985a', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:17:47.763 |   INFO   | process [9501]:8598504000 | 0fb4e963-b7d2-4f8a-889f-816419c4985a | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:17:47.763 |   INFO   | process [9501]:8598504000 | 0fb4e963-b7d2-4f8a-889f-816419c4985a | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:17:47.764 |   INFO   | process [9501]:8598504000 | 0fb4e963-b7d2-4f8a-889f-816419c4985a | app.core.logger:async_wrapper:73 - 请求成功完成: 0fb4e963-b7d2-4f8a-889f-816419c4985a
+2025-03-05 00:17:47.913 |   INFO   | process [9501]:8598504000 | c18680e9-4cdf-4a7c-9429-57d6728c6057 | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': 'c18680e9-4cdf-4a7c-9429-57d6728c6057', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:17:47.913 |   INFO   | process [9501]:8598504000 | c18680e9-4cdf-4a7c-9429-57d6728c6057 | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:17:47.913 |   INFO   | process [9501]:8598504000 | c18680e9-4cdf-4a7c-9429-57d6728c6057 | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:17:47.914 |   INFO   | process [9501]:8598504000 | c18680e9-4cdf-4a7c-9429-57d6728c6057 | app.core.logger:async_wrapper:73 - 请求成功完成: c18680e9-4cdf-4a7c-9429-57d6728c6057
+2025-03-05 00:17:48.156 |   INFO   | process [9501]:8598504000 | 8f008d1d-5712-4699-90f1-63d428c4003b | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': '8f008d1d-5712-4699-90f1-63d428c4003b', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:17:48.156 |   INFO   | process [9501]:8598504000 | 8f008d1d-5712-4699-90f1-63d428c4003b | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:17:48.157 |   INFO   | process [9501]:8598504000 | 8f008d1d-5712-4699-90f1-63d428c4003b | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:17:48.157 |   INFO   | process [9501]:8598504000 | 8f008d1d-5712-4699-90f1-63d428c4003b | app.core.logger:async_wrapper:73 - 请求成功完成: 8f008d1d-5712-4699-90f1-63d428c4003b
+2025-03-05 00:17:48.370 |   INFO   | process [9501]:8598504000 | f01395df-4b58-451f-867a-8985295d3655 | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': 'f01395df-4b58-451f-867a-8985295d3655', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:17:48.371 |   INFO   | process [9501]:8598504000 | f01395df-4b58-451f-867a-8985295d3655 | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:17:48.371 |   INFO   | process [9501]:8598504000 | f01395df-4b58-451f-867a-8985295d3655 | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:17:48.371 |   INFO   | process [9501]:8598504000 | f01395df-4b58-451f-867a-8985295d3655 | app.core.logger:async_wrapper:73 - 请求成功完成: f01395df-4b58-451f-867a-8985295d3655
+2025-03-05 00:17:48.555 |   INFO   | process [9501]:8598504000 | 62f98fd0-07d5-4ff3-bf6c-551ebb078b06 | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': '62f98fd0-07d5-4ff3-bf6c-551ebb078b06', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:17:48.555 |   INFO   | process [9501]:8598504000 | 62f98fd0-07d5-4ff3-bf6c-551ebb078b06 | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:17:48.555 |   INFO   | process [9501]:8598504000 | 62f98fd0-07d5-4ff3-bf6c-551ebb078b06 | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:17:48.556 |   INFO   | process [9501]:8598504000 | 62f98fd0-07d5-4ff3-bf6c-551ebb078b06 | app.core.logger:async_wrapper:73 - 请求成功完成: 62f98fd0-07d5-4ff3-bf6c-551ebb078b06
+2025-03-05 00:17:48.731 |   INFO   | process [9501]:8598504000 | 06f73f5a-f8f5-455e-aacb-93037d3ccfce | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': '06f73f5a-f8f5-455e-aacb-93037d3ccfce', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:17:48.732 |   INFO   | process [9501]:8598504000 | 06f73f5a-f8f5-455e-aacb-93037d3ccfce | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:17:48.732 |   INFO   | process [9501]:8598504000 | 06f73f5a-f8f5-455e-aacb-93037d3ccfce | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:17:48.732 |   INFO   | process [9501]:8598504000 | 06f73f5a-f8f5-455e-aacb-93037d3ccfce | app.core.logger:async_wrapper:73 - 请求成功完成: 06f73f5a-f8f5-455e-aacb-93037d3ccfce
+2025-03-05 00:17:49.233 |   INFO   | process [9501]:8598504000 | cb04547f-f2b7-4876-ae2f-9f5dcc7ee2f0 | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': 'cb04547f-f2b7-4876-ae2f-9f5dcc7ee2f0', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:17:49.234 |   INFO   | process [9501]:8598504000 | cb04547f-f2b7-4876-ae2f-9f5dcc7ee2f0 | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:17:49.234 |   INFO   | process [9501]:8598504000 | cb04547f-f2b7-4876-ae2f-9f5dcc7ee2f0 | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:17:49.235 |   INFO   | process [9501]:8598504000 | cb04547f-f2b7-4876-ae2f-9f5dcc7ee2f0 | app.core.logger:async_wrapper:73 - 请求成功完成: cb04547f-f2b7-4876-ae2f-9f5dcc7ee2f0
+2025-03-05 00:17:53.704 |   INFO   | process [9501]:8598504000 | 1a6a8613-5b1f-4106-84b7-fa185154ee84 | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': '1a6a8613-5b1f-4106-84b7-fa185154ee84', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:17:53.705 |   INFO   | process [9501]:8598504000 | 1a6a8613-5b1f-4106-84b7-fa185154ee84 | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:17:53.706 |   INFO   | process [9501]:8598504000 | 1a6a8613-5b1f-4106-84b7-fa185154ee84 | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:17:53.706 |   INFO   | process [9501]:8598504000 | 1a6a8613-5b1f-4106-84b7-fa185154ee84 | app.core.logger:async_wrapper:73 - 请求成功完成: 1a6a8613-5b1f-4106-84b7-fa185154ee84
+2025-03-05 00:17:53.844 |   INFO   | process [9501]:8598504000 | b42f5053-89e2-4b15-9d36-36a0bd1524c6 | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': 'b42f5053-89e2-4b15-9d36-36a0bd1524c6', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:17:53.845 |   INFO   | process [9501]:8598504000 | b42f5053-89e2-4b15-9d36-36a0bd1524c6 | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:17:53.845 |   INFO   | process [9501]:8598504000 | b42f5053-89e2-4b15-9d36-36a0bd1524c6 | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:17:53.845 |   INFO   | process [9501]:8598504000 | b42f5053-89e2-4b15-9d36-36a0bd1524c6 | app.core.logger:async_wrapper:73 - 请求成功完成: b42f5053-89e2-4b15-9d36-36a0bd1524c6
+2025-03-05 00:17:54.015 |   INFO   | process [9501]:8598504000 | 0196e1b7-2ff3-496e-b942-19186ce91697 | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': '0196e1b7-2ff3-496e-b942-19186ce91697', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:17:54.016 |   INFO   | process [9501]:8598504000 | 0196e1b7-2ff3-496e-b942-19186ce91697 | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:17:54.016 |   INFO   | process [9501]:8598504000 | 0196e1b7-2ff3-496e-b942-19186ce91697 | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:17:54.016 |   INFO   | process [9501]:8598504000 | 0196e1b7-2ff3-496e-b942-19186ce91697 | app.core.logger:async_wrapper:73 - 请求成功完成: 0196e1b7-2ff3-496e-b942-19186ce91697
+2025-03-05 00:17:54.367 |   INFO   | process [9501]:8598504000 | fba56023-5bf8-4eb1-a1e6-d8dbaac0d9a5 | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': 'fba56023-5bf8-4eb1-a1e6-d8dbaac0d9a5', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:17:54.367 |   INFO   | process [9501]:8598504000 | fba56023-5bf8-4eb1-a1e6-d8dbaac0d9a5 | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:17:54.368 |   INFO   | process [9501]:8598504000 | fba56023-5bf8-4eb1-a1e6-d8dbaac0d9a5 | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:17:54.368 |   INFO   | process [9501]:8598504000 | fba56023-5bf8-4eb1-a1e6-d8dbaac0d9a5 | app.core.logger:async_wrapper:73 - 请求成功完成: fba56023-5bf8-4eb1-a1e6-d8dbaac0d9a5
+2025-03-05 00:17:54.524 |   INFO   | process [9501]:8598504000 | 33ac184f-cff8-4f88-b724-257a1cf3067b | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': '33ac184f-cff8-4f88-b724-257a1cf3067b', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:17:54.525 |   INFO   | process [9501]:8598504000 | 33ac184f-cff8-4f88-b724-257a1cf3067b | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:17:54.525 |   INFO   | process [9501]:8598504000 | 33ac184f-cff8-4f88-b724-257a1cf3067b | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:17:54.525 |   INFO   | process [9501]:8598504000 | 33ac184f-cff8-4f88-b724-257a1cf3067b | app.core.logger:async_wrapper:73 - 请求成功完成: 33ac184f-cff8-4f88-b724-257a1cf3067b
+2025-03-05 00:17:54.668 |   INFO   | process [9501]:8598504000 | 73568051-0769-4307-828f-e2b436003d0c | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': '73568051-0769-4307-828f-e2b436003d0c', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:17:54.669 |   INFO   | process [9501]:8598504000 | 73568051-0769-4307-828f-e2b436003d0c | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:17:54.669 |   INFO   | process [9501]:8598504000 | 73568051-0769-4307-828f-e2b436003d0c | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:17:54.669 |   INFO   | process [9501]:8598504000 | 73568051-0769-4307-828f-e2b436003d0c | app.core.logger:async_wrapper:73 - 请求成功完成: 73568051-0769-4307-828f-e2b436003d0c
+2025-03-05 00:17:54.948 |   INFO   | process [9501]:8598504000 | 86619834-5efd-42a1-b409-8d314100e5af | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': '86619834-5efd-42a1-b409-8d314100e5af', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:17:54.948 |   INFO   | process [9501]:8598504000 | 86619834-5efd-42a1-b409-8d314100e5af | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:17:54.948 |   INFO   | process [9501]:8598504000 | 86619834-5efd-42a1-b409-8d314100e5af | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:17:54.949 |   INFO   | process [9501]:8598504000 | 86619834-5efd-42a1-b409-8d314100e5af | app.core.logger:async_wrapper:73 - 请求成功完成: 86619834-5efd-42a1-b409-8d314100e5af
+2025-03-05 00:17:55.115 |   INFO   | process [9501]:8598504000 | c64baf16-26ca-4ba9-aa25-9582a1deb1cb | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': 'c64baf16-26ca-4ba9-aa25-9582a1deb1cb', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:17:55.116 |   INFO   | process [9501]:8598504000 | c64baf16-26ca-4ba9-aa25-9582a1deb1cb | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:17:55.116 |   INFO   | process [9501]:8598504000 | c64baf16-26ca-4ba9-aa25-9582a1deb1cb | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:17:55.116 |   INFO   | process [9501]:8598504000 | c64baf16-26ca-4ba9-aa25-9582a1deb1cb | app.core.logger:async_wrapper:73 - 请求成功完成: c64baf16-26ca-4ba9-aa25-9582a1deb1cb
+2025-03-05 00:17:55.274 |   INFO   | process [9501]:8598504000 | 21751b00-8e97-4477-88d2-01acc479534d | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': '21751b00-8e97-4477-88d2-01acc479534d', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:17:55.274 |   INFO   | process [9501]:8598504000 | 21751b00-8e97-4477-88d2-01acc479534d | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:17:55.274 |   INFO   | process [9501]:8598504000 | 21751b00-8e97-4477-88d2-01acc479534d | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:17:55.275 |   INFO   | process [9501]:8598504000 | 21751b00-8e97-4477-88d2-01acc479534d | app.core.logger:async_wrapper:73 - 请求成功完成: 21751b00-8e97-4477-88d2-01acc479534d
+2025-03-05 00:17:55.428 |   INFO   | process [9501]:8598504000 | fb294904-98d8-4fc9-abf4-4dc971172b7b | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': 'fb294904-98d8-4fc9-abf4-4dc971172b7b', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:17:55.429 |   INFO   | process [9501]:8598504000 | fb294904-98d8-4fc9-abf4-4dc971172b7b | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:17:55.429 |   INFO   | process [9501]:8598504000 | fb294904-98d8-4fc9-abf4-4dc971172b7b | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:17:55.429 |   INFO   | process [9501]:8598504000 | fb294904-98d8-4fc9-abf4-4dc971172b7b | app.core.logger:async_wrapper:73 - 请求成功完成: fb294904-98d8-4fc9-abf4-4dc971172b7b
+2025-03-05 00:17:55.582 |   INFO   | process [9501]:8598504000 | f172b0c1-d6d0-4736-9018-24d65d54262c | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': 'f172b0c1-d6d0-4736-9018-24d65d54262c', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:17:55.583 |   INFO   | process [9501]:8598504000 | f172b0c1-d6d0-4736-9018-24d65d54262c | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:17:55.583 |   INFO   | process [9501]:8598504000 | f172b0c1-d6d0-4736-9018-24d65d54262c | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:17:55.583 |   INFO   | process [9501]:8598504000 | f172b0c1-d6d0-4736-9018-24d65d54262c | app.core.logger:async_wrapper:73 - 请求成功完成: f172b0c1-d6d0-4736-9018-24d65d54262c
+2025-03-05 00:17:55.750 |   INFO   | process [9501]:8598504000 | 0404fa92-bede-4933-8bf8-ac85c66ae6d7 | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': '0404fa92-bede-4933-8bf8-ac85c66ae6d7', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:17:55.751 |   INFO   | process [9501]:8598504000 | 0404fa92-bede-4933-8bf8-ac85c66ae6d7 | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:17:55.751 |   INFO   | process [9501]:8598504000 | 0404fa92-bede-4933-8bf8-ac85c66ae6d7 | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:17:55.752 |   INFO   | process [9501]:8598504000 | 0404fa92-bede-4933-8bf8-ac85c66ae6d7 | app.core.logger:async_wrapper:73 - 请求成功完成: 0404fa92-bede-4933-8bf8-ac85c66ae6d7
+2025-03-05 00:17:55.902 |   INFO   | process [9501]:8598504000 | 4fbe994f-e52c-4300-9cab-0038921cb3e9 | app.core.logger:async_wrapper:68 - 请求开始: {'uuid': '4fbe994f-e52c-4300-9cab-0038921cb3e9', 'date': '20250305', 'url': '/demo/hello', 'params': {'name': 'world'}}
+2025-03-05 00:17:55.903 |   INFO   | process [9501]:8598504000 | 4fbe994f-e52c-4300-9cab-0038921cb3e9 | app.core.logger:log_info:145 - 处理 hello 请求，参数: name=world
+2025-03-05 00:17:55.903 |   INFO   | process [9501]:8598504000 | 4fbe994f-e52c-4300-9cab-0038921cb3e9 | app.core.logger:log_info:145 - 请求处理完成，返回: {'message': 'Hello, world!'}
+2025-03-05 00:17:55.903 |   INFO   | process [9501]:8598504000 | 4fbe994f-e52c-4300-9cab-0038921cb3e9 | app.core.logger:async_wrapper:73 - 请求成功完成: 4fbe994f-e52c-4300-9cab-0038921cb3e9
